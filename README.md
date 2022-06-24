@@ -9,9 +9,9 @@ INSTALLATION
 
 USAGE
   * configure this script :
-  * set a shortcut in preferences->shortcut->lua
-  * set file manager path in preferences->lua options
-  * set file manager options in preferences->lua options
+  - set a shortcut in preferences->shortcut->lua
+  - set file manager path in preferences->lua options
+  - set file manager options in preferences->lua options
   * select a photo
   * type your shortcut
   * after use dont forget to close file manager window !

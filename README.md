@@ -4,7 +4,7 @@ file manager - launch file manager in photo directory with a shortcut
 
 INSTALLATION
 * copy this file in $CONFIGDIR/lua/ where CONFIGDIR is your darktable configuration directory
-* add the following line in the file $CONFIGDIR/luarc
+* add the following line in the file $CONFIGDIR/luarc :
   require "fnav"
 
 USAGE
